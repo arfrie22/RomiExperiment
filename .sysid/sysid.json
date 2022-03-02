@@ -1,0 +1,10 @@
+{
+  "SysId": {
+    "Analysis Type": "Romi",
+    "NetworkTables Settings": {
+      "serverTeam": "465"
+    },
+    "mode": "Client",
+    "serverTeam": "467"
+  }
+}
